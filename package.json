@@ -1,0 +1,35 @@
+{
+  "name": "color-scheme",
+  "version": "1.0.0",
+  "description": "Extract, convert, and generate color palettes. WCAG contrast. Terminal preview. Zero deps.",
+  "type": "module",
+  "bin": {
+    "color-scheme": "./index.js",
+    "colors": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "colors",
+    "css",
+    "palette",
+    "wcag"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/color-scheme.git"
+  },
+  "homepage": "https://github.com/NickCirv/color-scheme#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/color-scheme/issues"
+  },
+  "files": [
+    "index.js"
+  ]
+}
