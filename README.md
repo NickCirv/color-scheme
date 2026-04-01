@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # color-scheme
 
 > Extract, convert, and generate color palettes. WCAG contrast. Terminal preview. Zero deps.
